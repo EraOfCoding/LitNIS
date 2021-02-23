@@ -8,7 +8,7 @@ class Footer extends React.Component {
             <div className="footer">
                 <div className="contact">
                     <h1>Litnis</h1>
-                    <img onClick={() => window.open('https://github.com/EraOfCoding?tab=repositories', '_blank')} 
+                    <img onClick={() => window.open('https://github.com/EraOfCoding/LitNIS', '_blank')} 
                     src={githublogo}/>
                 </div>
                 <div id="footer-author">
