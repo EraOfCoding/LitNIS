@@ -1,0 +1,53 @@
+.grades {
+  padding-top: 50px;
+  margin-bottom: 66px;
+  width: auto;
+}
+
+#big-text-container {
+  width: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.grades-h1 {
+  font-weight: 400;
+  font-size: 2.5rem;
+  padding-left: 20px;
+  line-height: 1;
+}
+
+.links-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 10px;
+  font-size: 1.9rem;
+  padding-bottom: 70px;
+}
+
+.grades-link {
+  display: flex;
+  justify-content: center;
+  margin: 3px;
+  font-weight: 500;
+}
+
+@media only screen and (min-width: 900px) {
+  .grades-h1 {
+    width: 900px;
+    font-size: 4.5rem;
+    padding-left: 100px;
+  }
+  .grades-divs-container {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .grades-link {
+    font-weight: 500;
+    font-size: 3rem;
+    text-decoration: none;
+  }
+  .grades-link:hover {
+    text-decoration: underline;
+  }
+}

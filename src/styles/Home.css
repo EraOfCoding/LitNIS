@@ -1,0 +1,92 @@
+.home h1 {
+  padding-top: 100px;
+  font-size: 45px;
+}
+
+#big-p {
+  font-size: 30px;
+}
+
+.get-started {
+  background-image: url("../img/hp-bg.jpg");
+  padding-top: 100px;
+  color: #212425;
+  height: 870px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+}
+
+#content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: auto;
+  margin-top: 10px;
+}
+
+.get-started div h1 {
+  line-height: 0.9;
+}
+
+.get-started div p {
+  height: 50px;
+  margin-bottom: 30px;
+}
+
+.options {
+  display: flex;
+  justify-content: space-around;
+  width: auto;
+}
+
+@media only screen and (max-width: 1000px) {
+  .home h1 {
+    font-size: 40px;
+  }
+
+  .get-started {
+    background-image: url("../img/hp-bg-mobile.jpg");
+  }
+
+  .options {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #content {
+    margin-top: 170px;
+    margin-left: 20px;
+  }
+
+  #big-p {
+    margin-left: 10px;
+    margin-top: 5px;
+    height: auto;
+  }
+}
+
+.options div {
+  width: 300px;
+  font-size: 20px;
+}
+
+.get-started div button {
+  background-color: rgb(255, 197, 71);
+  margin-top: 20px;
+  margin-bottom: 100px;
+  width: 250px;
+  height: 60px;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 600;
+  outline: none;
+  border-bottom: 2px inset rgb(163, 116, 55);
+  border-right: 2px inset rgb(163, 116, 55);
+  border-top: none;
+  border-left: none;
+  border-radius: 20px;
+  cursor: pointer;
+}

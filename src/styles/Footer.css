@@ -1,0 +1,43 @@
+.footer {
+  background-color: rgb(255, 192, 75);
+  color: #212425;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.contact img {
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+#ds-icon {
+  width: 35px;
+  height: 35px;
+  margin-left: 5px;
+}
+
+#footer-author {
+  margin-top: 13px;
+}
+
+#footer-a {
+  cursor: pointer;
+}
+
+#footer-a:hover {
+  text-decoration: underline;
+}
+
+.footer h5 {
+  width: auto;
+  padding-right: 10px;
+}
