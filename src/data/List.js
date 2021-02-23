@@ -116,7 +116,7 @@ const list = {
         },
         {
             name: 'Ана, Аруана батыр дүние',
-            url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ', // WAIT THIS IS RICKROLL
+            url: 'https://kitap.kz/audio-book/olengderi-14', 
         },
         {
             name: 'Кәрі қыран',
