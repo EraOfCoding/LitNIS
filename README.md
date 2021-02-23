@@ -1,3 +1,7 @@
+# This is LitNIS website for NIS students. They can find all books sources here! https://litnis.netlify.app
+If you have any suggestions please contact me
+yerassyl.abylkassym@gmail.com
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
