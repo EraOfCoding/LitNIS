@@ -2,6 +2,8 @@
 If you have any suggestions please contact me
 yerassyl.abylkassym@gmail.com
 
+Recomended browsers: FireFox, Chrome, Safari
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
